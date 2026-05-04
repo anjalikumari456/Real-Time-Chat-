@@ -1,0 +1,15 @@
+{
+  "name": "chitchat",
+  "version": "1.0.0",
+  "description": "Snappy is chat application build with the power of MERN Stack.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "cd server && npm run dev",
+    "server": "cd server && npm run dev",
+    "client": "cd client && npm run dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
